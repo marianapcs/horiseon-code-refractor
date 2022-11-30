@@ -14,5 +14,6 @@ This is a refactor of the Horiseon website to improve search engine optimisation
 
 ## Screenshot
 
+![Webpage Screenshot](assets/images/Horiseon%20Webpage%20Preview.png)
 
-## Link 
+## Link
