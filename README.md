@@ -10,7 +10,7 @@ This is a refactor of the Horiseon website to improve search engine optimisation
 
 - The adaptions allow this webpage to be more informative and adaptable. Browsers can better interpret content;
 
-- Within the CSS sheet styling that covered the same elements were grouped to create a more organised layout;
+- Within the CSS sheet, styling that covered the same elements were grouped, to create a more organised layout;
 
 ## Screenshot
 
